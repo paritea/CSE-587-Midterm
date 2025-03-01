@@ -1,5 +1,5 @@
 # CSE-587 Midterm Project
-## Team members: Darshan Chudiwal(dsc5636) and Yash Priyadarshi(yvp5218)
+### Team members: </br> Darshan Chudiwal(dsc5636) and Yash Priyadarshi(yvp5218)
 
 This repository contains the code and experiments for our midterm project in CSE-587. The main focus is on an ablation study of a bidirectional LSTM model for text classification. The final optimized model is implemented in the notebook `cse587-midterm-project-experiment.ipynb`.
 
