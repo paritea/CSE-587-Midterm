@@ -1,6 +1,6 @@
 # CSE-587 Midterm Project
 
-This repository contains the code and experiments for my midterm project in CSE-587. The main focus is on an ablation study of a bidirectional LSTM model for text classification. The final optimized model is implemented in the notebook `cse587-midterm-project-experiment.ipynb`.
+This repository contains the code and experiments for our midterm project in CSE-587. The main focus is on an ablation study of a bidirectional LSTM model for text classification. The final optimized model is implemented in the notebook `cse587-midterm-project-experiment.ipynb`.
 
 ## Experiments
 
